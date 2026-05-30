@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authderify",
+        "uuid": 4420020,
+        "checksum": "x9gew"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
